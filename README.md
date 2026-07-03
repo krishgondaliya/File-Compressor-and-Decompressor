@@ -23,6 +23,3 @@ On Windows with a single-config generator, the executable may be under `build/De
 ctest --test-dir build --output-on-failure
 ```
 
-## Current Status
-
-Compression, decompression, bit streams, file format parsing, and malformed-input handling are placeholders for the later roadmap days.
