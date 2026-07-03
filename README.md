@@ -1,6 +1,6 @@
 # Huffzip
 
-`huffzip` is a C++20 file compressor and decompressor project scaffolded for a Huffman-coding implementation.
+`huffzip` is a C++20 file compressor and decompressor project for a Huffman-coding implementation.
 
 ## Build
 
